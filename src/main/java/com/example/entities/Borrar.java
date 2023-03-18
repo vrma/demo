@@ -7,6 +7,7 @@ public class Borrar {
     private String primerApellido;
     private String segundoApellido;
     private LocalDate fechaAlta;
+    private LocalDate fechaDeNacimiento;
 
     public enum Dias {
         LUNES, MARTES, MIERCOLES
